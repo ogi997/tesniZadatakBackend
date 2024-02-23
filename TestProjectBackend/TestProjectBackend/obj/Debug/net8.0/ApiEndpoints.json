@@ -1,0 +1,333 @@
+[
+  {
+    "ContainingType": "TestProjectBackend.Controllers.AuthController",
+    "Method": "GetUser",
+    "RelativePath": "api/Auth/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.DTO.KorisnikDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "TestProjectBackend.Models.Requests.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerRequest",
+        "Type": "TestProjectBackend.Models.Requests.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.FaktureController",
+    "Method": "GetAllFakture",
+    "RelativePath": "api/Fakture/all-fakture",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[TestProjectBackend.Models.Entities.Faktura, TestProjectBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.FaktureController",
+    "Method": "DeleteFaktura",
+    "RelativePath": "api/Fakture/delete-faktura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.FaktureController",
+    "Method": "GetFaktura",
+    "RelativePath": "api/Fakture/faktura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.Faktura",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.FaktureController",
+    "Method": "PutFaktura",
+    "RelativePath": "api/Fakture/izmjena/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "faktura",
+        "Type": "TestProjectBackend.Models.Entities.Faktura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.Faktura",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.FaktureController",
+    "Method": "DodajFakturu",
+    "RelativePath": "api/Fakture/nova-faktura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "faktura",
+        "Type": "TestProjectBackend.Models.Entities.Faktura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.Faktura",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.StavkaFaktureController",
+    "Method": "GetAllStavkaFakture",
+    "RelativePath": "api/StavkaFakture/all-stavkaFakture",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[TestProjectBackend.Models.Entities.StavkaFakture, TestProjectBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.StavkaFaktureController",
+    "Method": "DeleteFaktura",
+    "RelativePath": "api/StavkaFakture/delete-stavkaFaktura/{idFakture}/{idStavke}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idFakture",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "idStavke",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.StavkaFaktureController",
+    "Method": "PutFaktura",
+    "RelativePath": "api/StavkaFakture/izmjena/{idFakture}/{idStavke}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idFakture",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "idStavke",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "stavkaFakture",
+        "Type": "TestProjectBackend.Models.Entities.StavkaFakture",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.StavkaFakture",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.StavkaFaktureController",
+    "Method": "DodajFakturu",
+    "RelativePath": "api/StavkaFakture/nova-stavkaFaktura/{idFakture}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idFakture",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "stavkaFakture",
+        "Type": "TestProjectBackend.Models.Entities.StavkaFakture",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.StavkaFakture",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestProjectBackend.Controllers.StavkaFaktureController",
+    "Method": "GetFaktura",
+    "RelativePath": "api/StavkaFakture/stavkaFaktura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TestProjectBackend.Models.Entities.StavkaFakture",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

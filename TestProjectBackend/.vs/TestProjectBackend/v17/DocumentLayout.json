@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\services\\stavkafaktureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\services\\stavkafaktureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\services\\fakturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\services\\fakturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\profiles\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\profiles\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\models\\entities\\stavkafakture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\models\\entities\\stavkafakture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\models\\entities\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\models\\entities\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\models\\entities\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\models\\entities\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\models\\dto\\korisnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\models\\dto\\korisnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\controllers\\fakturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\controllers\\fakturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|c:\\users\\ognjen\\source\\repos\\testprojectbackend\\testprojectbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED24CC4F-F055-42A0-B07D-7AB9D4B7CD38}|TestProjectBackend\\TestProjectBackend.csproj|solutionrelative:testprojectbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Program.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Program.cs",
+              "RelativeToolTip": "TestProjectBackend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:40.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Profiles\\Mapper.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Profiles\\Mapper.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Profiles\\Mapper.cs",
+              "RelativeToolTip": "TestProjectBackend\\Profiles\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Models\\Requests\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "TestProjectBackend\\Models\\Requests\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Models\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "TestProjectBackend\\Models\\Requests\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "TestProjectBackend\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAYAAACAzMzMzMwswAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:54:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Services\\FakturaService.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Services\\FakturaService.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Services\\FakturaService.cs",
+              "RelativeToolTip": "TestProjectBackend\\Services\\FakturaService.cs",
+              "ViewState": "AQIAABEAAAAAmpmZmZk1wBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:08:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TestProjectBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:55:42.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StavkaFakture.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Entities\\StavkaFakture.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Models\\Entities\\StavkaFakture.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Entities\\StavkaFakture.cs",
+              "RelativeToolTip": "TestProjectBackend\\Models\\Entities\\StavkaFakture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:16.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StavkaFaktureService.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Services\\StavkaFaktureService.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Services\\StavkaFaktureService.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Services\\StavkaFaktureService.cs",
+              "RelativeToolTip": "TestProjectBackend\\Services\\StavkaFaktureService.cs",
+              "ViewState": "AQIAAA4AAADAzMzMzMwkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:52:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Entities\\Korisnik.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Models\\Entities\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Entities\\Korisnik.cs",
+              "RelativeToolTip": "TestProjectBackend\\Models\\Entities\\Korisnik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Faktura.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Entities\\Faktura.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Models\\Entities\\Faktura.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\Entities\\Faktura.cs",
+              "RelativeToolTip": "TestProjectBackend\\Models\\Entities\\Faktura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:13.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KorisnikDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\DTO\\KorisnikDTO.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Models\\DTO\\KorisnikDTO.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Models\\DTO\\KorisnikDTO.cs",
+              "RelativeToolTip": "TestProjectBackend\\Models\\DTO\\KorisnikDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:02:07.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FaktureController.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Controllers\\FaktureController.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Controllers\\FaktureController.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Controllers\\FaktureController.cs",
+              "RelativeToolTip": "TestProjectBackend\\Controllers\\FaktureController.cs",
+              "ViewState": "AQIAAEgAAAAAmJmZmZnpvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:55:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TestProjectBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TestProjectBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAD4AAAAAMzMzMzMXwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:55:28.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "TestProjectBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ognjen\\source\\repos\\TestProjectBackend\\TestProjectBackend\\appsettings.json",
+              "RelativeToolTip": "TestProjectBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T13:50:35.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
